@@ -1,0 +1,380 @@
+
+.shapka .row {
+     border-bottom: 0.1px solid rgba(76, 83, 90, 0.4);
+    vertical-align: middle;
+    background: #eeeeee; 
+    text-align: right;
+    font-family: "Robotto";
+    
+}
+
+
+.shapka a {
+     color: black;
+     cursor: pointer;
+    font-size: 10px;
+    outline: none;    
+  
+}
+
+
+
+
+
+
+.logo {
+   
+    display: inline-block;
+  padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    vertical-align: middle;
+}
+
+.logotxt2 {
+    font-size: 10px;
+    margin-top: -6px;
+    color: #b6b7b7;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    font-weight: 600;
+    opacity: 0.7;
+    text-align: center;
+}
+
+.logotxt1 {
+    text-align: center;
+    color: #6ba5a7;
+    letter-spacing: 6px;
+    font-weight: 600;
+    font-size: 13px;
+    transform: scale(1, 0.9);
+}
+
+.tel1{
+       color: #659698;
+   word-spacing: 2px;
+    font-weight: 600;
+    font-size: 20px;
+   
+}
+
+.tel2 {
+    font-size: 10px;
+    margin-top: -3px;
+    color: #b6b7b7;
+   text-align: left;
+   
+   
+}
+
+.tel11 {
+    color: #b6b7b7;
+   word-spacing: 2px;
+  text-align: left;
+    font-size: 9px;
+}
+
+.tel21 {
+      font-size: 9px;
+    margin-top: -3px;
+    color: #b6b7b7;
+   text-align: left;
+}
+
+.container-fluid {
+}
+
+.logo {
+}
+.logo img {
+    height: 28px;
+    vertical-align: middle;
+    float: left;
+    padding-right: 5px;
+    opacity: 0.6;
+    margin-top: -2px
+    
+}
+
+.tel11 {
+}
+.tel11 b {
+}
+.tel11 a {
+    color:#b6b7b7
+}
+
+.tel21 {
+}
+.tel21 b {
+}
+.tel21 a {
+    color:#b6b7b7
+}
+
+.tel21 a:hover {
+    text-decoration: none;
+     border-bottom: 1px dashed rgba(81, 81, 90, 0.33);
+}
+
+.tel11 a:hover {
+    text-decoration: none;
+     border-bottom: 1px dashed rgba(81, 81, 90, 0.33);
+}
+.logorow {
+    
+}
+
+
+
+.buttonsS {
+    text-align: left;
+   font-family: arial;
+    text-transform: uppercase;
+     font-size: 14px;
+    margin-top: 10px;
+     margin-bottom: 10px;
+vertical-align: middle;
+position: relative;
+    overflow: hidden;
+    
+}
+
+
+.buttonsS a {
+    color: white;
+    
+}
+
+   
+
+body {
+    min-width: 100%;
+}
+
+input {
+    width: 250px;
+    height: 25px;
+  font-size: 10px;
+margin-top: -2px;
+    vertical-align: middle;
+   float: right;
+outline:none;
+    border: 1px solid rgba(80, 56, 56, 0.28);
+}
+.input:placeholder {color: white;}
+
+
+.col i {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.search__magnifier {
+    background-image: url(../image/loupe.png);
+ 
+  background-size: 100%;
+  height: 17px;
+  width: 17px;
+opacity: 0.5;
+  border: none;
+  background: no-repeat;
+   
+  margin-right: -245px;
+   float: right;
+    margin-top:2px;
+
+}
+
+
+
+.katalogMain {
+    min-width: 200px;
+   
+    color: white;
+    margin-left: 10px;
+   margin-right: 10px;
+    font-size: 12px;
+}
+
+.accordion {
+  
+      
+    }
+
+    .accordion h3 {
+      background: #eeeeee;
+      padding: 8px 15px 8px 10px;
+         
+      margin: 0;
+      font-size: 10px;
+     
+      border-bottom: none;
+      cursor: pointer;
+        color: #61878c;
+        font-weight: 400;
+    }
+
+    .accordion h3:hover {
+      background-color: #61878c;
+color:white;
+    }
+
+
+
+    .accordion div .h3menu {
+        line-height:normal;
+        text-indent: 0px;
+
+      background: #eeeeee;
+      margin: 0;
+      padding: 8px 15px 8px 20px;
+      
+        
+    }
+.accordion div .h3menu:hover {
+      background: #61878c;
+     
+    
+       
+    }
+
+.accordion div a {
+     color: #61878c;
+    background: #eeeeee;
+    font-size: 10px;
+    }
+
+.accordion div a:hover {
+     color: white;
+    text-decoration: none;
+    }
+
+
+.accordion a {
+    color: #61878c;
+}
+
+
+@media only screen and (max-width:879px) {
+    input {
+       
+width: 700px;  
+   float: left;
+    }
+    .search__magnifier {
+   float: left;
+        margin-left: -20px;
+}
+    .buttonss{text-align: justify}
+}
+
+
+
+
+
+@media only screen and (max-width:751px) {
+ input {
+       
+width: 500px;  
+  float: left;
+    }
+    .buttonss{text-align: justify}
+    .search__magnifier {
+   float: left;
+}
+}
+
+
+
+
+
+
+
+@media only screen and (max-width:552px) {
+input {
+		width: 450px;
+		float: left;
+	}
+}
+@media only screen and (max-width:477px) {
+input {
+		width: 430px;
+		float: left;
+	}
+    .buttonss{text-align: justify}
+}
+@media only screen and (max-width:477px) {
+input {
+		width: 80%;
+		float: left;
+	}
+     .buttonss{text-align: justify}
+}
+
+
+.menubutt {
+    background: #61878c;  border-bottom: 0.5px solid rgba(76, 83, 90, 0.4);
+     border-top: 0.5px solid rgba(76, 83, 90, 0.4);
+    vertical-align: middle;margin-bottom: 30px;
+    font-family: Robotto;
+}
+
+.katalog {
+
+  -webkit-user-select: none;   
+  -khtml-user-select: none;    
+  -moz-user-select: none;      
+  -ms-user-select: none;       
+  user-select: none;  
+    
+}
+
+
+
+.insideblock {
+    position: relative;
+   
+}
+
+
+
+
+
+.blockinfo img {
+     height: 50%;
+    vertical-align: middle;
+    
+    padding-right: 5px;
+    opacity: 0.6;
+   
+}
+
+
+
+
+
+
+
+.blockinfo {
+    display: table;
+    background: #eeeeee;
+    width: 310px;
+   height: 100px;
+    margin-bottom: 15px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.blockinfo2 {
+     display: table-cell;
+    vertical-align: middle;
+    
+    text-align: left;
+
+}
+
+.blockingotxt {
+    text-align: left; color:rgba(83, 105, 108, 0.86); line-height: 24px; font-size:15px
+}
