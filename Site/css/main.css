@@ -1,0 +1,819 @@
+
+.shapka .row {
+     border-bottom: 0.1px solid rgba(76, 83, 90, 0.4);
+    vertical-align: middle;
+    background: #eeeeee; 
+    text-align: right;
+    font-family: "Robotto";
+    
+}
+
+
+.shapka a {
+     color: black;
+     cursor: pointer;
+    font-size: 10px;
+    outline: none;    
+  
+}
+
+
+
+
+
+
+.logo {
+   
+    display: inline-block;
+  padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    vertical-align: middle;
+    
+    
+   
+}
+
+.logotxt2 {
+    font-size: 10px;
+    margin-top: -6px;
+    color: #b6b7b7;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    font-weight: 600;
+    opacity: 0.7;
+    text-align: center;
+}
+
+.logotxt1 {
+    text-align: center;
+    color: #6ba5a7;
+    letter-spacing: 6px;
+    font-weight: 600;
+    font-size: 13px;
+    transform: scale(1, 0.9);
+}
+
+.tel1{
+       color: #659698;
+   word-spacing: 2px;
+    font-weight: 600;
+    font-size: 20px;
+   
+}
+
+.tel2 {
+    font-size: 10px;
+    margin-top: -3px;
+    color: #b6b7b7;
+   text-align: left;
+   
+   
+}
+
+.tel11 {
+    color: #b6b7b7;
+   word-spacing: 2px;
+  text-align: left;
+    font-size: 9px;
+}
+
+.tel21 {
+      font-size: 9px;
+    margin-top: -3px;
+    color: #b6b7b7;
+   text-align: left;
+}
+
+.container-fluid {
+}
+
+
+.logo2 img {
+    height: 28px;
+    vertical-align: middle;
+    float: left;
+    padding-right: 5px;
+    opacity: 0.6;
+    margin-top: -2px
+    
+}
+
+.tel11 {
+}
+.tel11 b {
+}
+.tel11 a {
+    color:#b6b7b7
+}
+
+.tel21 {
+}
+.tel21 b {
+}
+.tel21 a {
+    color:#b6b7b7
+}
+
+.tel21 a:hover {
+    text-decoration: none;
+     border-bottom: 1px dashed rgba(81, 81, 90, 0.33);
+}
+
+.tel11 a:hover {
+    text-decoration: none;
+     border-bottom: 1px dashed rgba(81, 81, 90, 0.33);
+}
+.logorow {
+    
+}
+
+
+
+.buttonsS {
+    text-align: left;
+   font-family: arial;
+    text-transform: uppercase;
+     font-size: 12px;
+    margin-top: 10px;
+     margin-bottom: 10px;
+vertical-align: middle;
+position: relative;
+    overflow: hidden;
+   
+}
+
+
+.buttonsS a {
+    color: white;
+    
+}
+
+   
+
+body {
+    max-width: 100%;
+}
+
+input {
+    width: 300px;
+    height: 22px;
+  font-size: 12px;
+
+    vertical-align: middle;
+   float: right;
+outline:none;
+    border: 1px solid rgba(80, 56, 56, 0.28);
+}
+.input:placeholder {color: white;}
+
+
+.col i {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.search__magnifier {
+    background-image: url(../image/loupe.png);
+ 
+  background-size: 100%;
+  height: 17px;
+  width: 17px;
+opacity: 0.5;
+  border: none;
+  background: no-repeat;
+   
+  margin-right: -297px;
+   float: right;
+    margin-top:3px;
+
+}
+
+
+
+.katalogMain {
+    min-width: 200px;
+   
+    color: white;
+    margin-left: 10px;
+   margin-right: 10px;
+    font-size: 12px;
+}
+
+.accordion {
+  width: auto;
+      
+    }
+
+    .accordion h3 {
+      background: #eeeeee;
+      padding: 5px 15px 5px 10px;
+         
+      margin: 0;
+      font-size: 12px;
+    
+      border-bottom: none;
+      cursor: pointer;
+        color: #61878c;
+        font-weight: 400;
+    }
+
+    .accordion h3:hover {
+      background-color: #61878c;
+color:white;
+    }
+
+
+
+    .accordion div .h3menu {
+        line-height:normal;
+        text-indent: 0px;
+
+      background: #eeeeee;
+      margin: 0;
+      padding: 5px 15px 5px 20px;
+      font-size: 10px;
+        
+    }
+.accordion div .h3menu:hover {
+      background: #61878c;
+     
+    
+       
+    }
+
+.accordion div a {
+     color: #61878c;
+    background: #eeeeee;
+   
+    }
+
+.accordion div a:hover {
+     color: white;
+    text-decoration: none;
+    }
+
+
+.accordion a {
+    color: #61878c;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+.menubutt {
+    background: #61878c;  border-bottom: 0.5px solid rgba(76, 83, 90, 0.4);
+    
+     border-top: 0.5px solid rgba(76, 83, 90, 0.4);
+    vertical-align: middle;margin-bottom: 30px;
+    font-family: Robotto;
+    
+}
+
+.katalog {
+
+  -webkit-user-select: none;   
+  -khtml-user-select: none;    
+  -moz-user-select: none;      
+  -ms-user-select: none;       
+  user-select: none;  
+   
+}
+
+
+
+.insideblock {
+    position: relative;
+   
+}
+
+
+
+
+
+.blockinfo img {
+     height: 50%;
+    vertical-align: middle;
+    
+    padding-right: 5px;
+    opacity: 0.6;
+   
+}
+
+
+
+
+
+
+
+.blockinfo {
+    display: table;
+    background: #eeeeee;
+    width: 252px;
+   height: 93px;
+    margin-bottom: 10px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.blockinfo2 {
+     display: table-cell;
+    vertical-align: middle;
+    
+    text-align: left;
+
+}
+
+.blockingotxt {
+    text-align: left; color:rgba(83, 105, 108, 0.86); line-height: 20px; font-size:14px;
+}
+
+
+
+
+
+.infoImage {
+   ;margin-left: 26%; float: left;  width: 40px;
+}
+
+
+@media only screen and (max-width:777px) {
+   
+    
+}
+
+
+.slider {
+    float: left
+}
+
+.companyinfo {
+  
+    width: 100%;
+    background: rgba(233, 241, 245, 0.53);
+   text-align: left;
+    display: inline-block;
+height: 90px;
+    
+}
+
+
+
+.aboutcompany {
+text-align: center;
+   
+    font-size: 14px;
+    float: left;
+    background: #eeeeee;
+    height: 100%;
+    width: 150px;
+    margin-right: 10px;
+    display: inline-block;
+  vertical-align: top;
+    color:rgba(83, 105, 108, 0.86);
+    
+   
+}
+.aboutcompany:after {
+content: '';
+  height: 100%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.aboutcompanytxt {
+    font-size: 11px;
+    line-height: 13px;
+    margin-top: 10px;
+   margin-right: 10px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    color:rgba(83, 105, 108, 0.8);
+   
+}
+
+
+
+
+
+
+
+
+
+
+.classification {
+   
+   
+    background: #eeeeee;
+    text-align: left;
+  display: inline;
+}
+
+.classblocks {
+     height: 160px;
+    width: 184px;
+    
+    display: inline-block;
+    background: #eeeeee;
+    float: left;
+   
+    text-align: center;
+   margin: 3px;
+}
+
+.classblocks img {
+ height: 80%;
+    width: 100%;
+    margin-bottom: 3px;
+}
+
+.prefooterbuttons {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 12px;
+    background: #eeeeee;
+    padding: 7px;
+    color: #61878c;
+    margin-right: -3px;
+}
+
+.ssilkaprefooter:hover div{
+    color: #eeeeee;
+    background: #61878c;
+    text-decoration: underline;
+}
+
+.aboutcompanylink {
+    float: right;
+}
+
+.prefooterlogoss {
+    width: 180px; margin-bottom: 10px; margin-left: 10px;
+}
+
+.footer {
+    background: #eadfdf; border-top: 1px solid gray;
+}
+
+.footerblock1 {
+    font-size: 10px;
+    border-right: 1px solid black;
+    width: 120px;
+    text-align: left;
+    display: inline-block;
+    margin-right: 20px;
+    line-height: 20px;
+}
+
+.footercol {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.footerblock1 a {
+ color: black;
+}
+
+.footerblock2 {
+     font-size: 10px;
+   margin-right: 30px;
+    width: 120px;
+    text-align: left;
+    display: inline-block;
+     line-height: 20px;
+}
+
+.footerblock2 a {
+ color: black;
+}
+
+.map {
+    height: 75px;
+   
+    width: 250px;
+     
+    
+}
+
+.footermap {
+    width: 270px;
+    border-right: 1px solid black;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footerphones {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    float:right;
+}
+
+.footerinput {
+    width: 280px;
+    height: 22px;
+  font-size: 12px;
+
+    vertical-align: middle;
+  
+outline:none;
+    border: 1px solid rgba(80, 56, 56, 0.28);
+}
+
+.search__magnifier2 {
+    background-image: url(../image/loupe.png);
+ 
+  background-size: 100%;
+  height: 17px;
+  width: 17px;
+opacity: 0.5;
+  border: none;
+  background: no-repeat;
+   float:right;
+    margin-right: -275px;
+ 
+   
+    margin-top:3px;
+}
+
+.logofooter {
+     display: inline-block;
+  padding-left: 20px;
+   margin-top:-5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+}
+
+.tel1footer {
+    color: #659698;
+   word-spacing: 2px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.tel2footer {
+       font-size: 10px;
+    margin-top: -3px;
+    color: #b6b7b7;
+   text-align: left;
+}
+
+.sitemap {
+    font-size: 9px;
+    float: right;
+    width:250px;
+    text-align: right;
+}
+
+.hrlogos {
+    margin-bottom: 10px;margin-top: 10px ; background-color:black; opacity: 0.2; height:1px;
+}
+
+.dellogos {
+    display: inline-block;
+}
+
+.filtralign {
+    display: table;
+}
+
+.logo2 {
+     display: inline-block;
+  padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    vertical-align: middle;
+    
+    width: 190px; padding-right: 0px; 
+}
+
+
+
+.pkfiltr {
+    background: #61878c; padding-top: 10px; padding-bottom: 10px; text-transform: uppercase; display: block;
+}
+
+.mobilefiltr {
+     width: 220px;
+   background: #61878c; padding-top: 10px; padding-bottom: 10px; text-transform: uppercase; 
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+  
+    font-size: 12px;
+    display: none;
+    cursor: pointer;
+   
+}
+
+.mobilefiltr2 {
+     background: #61878c; padding-top: 10px; padding-bottom: 10px; text-transform: uppercase; 
+}
+
+.menuicon {
+    display: inline-block;
+    float: right;
+    font-size: 15px;
+    margin-top: -4px;
+}
+
+.accordstr {
+    display: inline-block; float: right;
+}
+
+.mobilefiltr44 {
+    min-width: 220px;
+   background: #61878c; padding-top: 10px; padding-bottom: 10px; text-transform: uppercase; 
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+  
+    font-size: 12px;
+    display: none;
+    cursor: pointer;
+}
+
+
+.accordionMenu h3 {
+      
+      padding: 15px 10px 15px 10px;
+         
+      margin: 0;
+      font-size: 12px;
+    
+   
+      border-bottom: none;
+      cursor: pointer;
+        color: white;
+        font-weight: 400;
+    }
+
+ .accordionMenu h3:hover {
+     
+color:white;
+    }
+
+.accordionMenu div a {
+     color: white;
+    background: #eeeeee;
+    
+    }
+
+ .accordionMenu div .h3menu {
+        line-height:normal;
+        text-indent: 0px;
+
+     text-align: center;
+      margin: 0;
+      padding: 5px 15px 5px 20px;
+      font-size: 13px;
+        
+    }
+
+.accordionMenu .accordstr {
+    font-size: 15px;
+    margin-top: -2.3px;
+}
+
+.accordionMenu {
+    display: none;
+    background: rgba(54, 76, 78, 0.09);
+    
+}
+
+.stillmenu {
+ 
+   display: inherit;
+}
+
+.product-list a {
+    text-decoration: none;
+}
+
+.korzina {
+     display: block;
+        position: absolute;
+       
+       margin-top: 10px;
+        display:block;
+       
+        width:150px;
+        background: white;        
+        line-height:50px;
+        transition:all .7s ease-out;
+        border: 1px solid #333;
+       
+    z-index: 9999;
+    
+}
+
+.tovarName {
+    font-size: 10px;
+    text-align: left;
+    line-height: 12px;
+}
+
+.tovar {
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.korzina img {
+    height: 25px;
+    width: 30px;
+    float: right;
+    display: inline-block;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.tovarCena {
+    font-size: 13px;
+    text-align: left;
+    line-height: 14px;
+}
+
+.korzinaobschsum {
+    font-size: 10px;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+
+.tovarSUMMA {
+    margin-top: -25px;
+    font-size:17px;
+    color:#318dc6;
+}
+
+.tovarKolvo {
+    position: absolute;
+    height: 12px;
+    width: 12px;
+    right: 0px;
+    background: rgba(26, 20, 20, 0.62);
+    border-radius: 50%;
+    line-height: 14px;
+    text-align: center;
+    font-size: 8px;
+    color: white;
+
+    
+}
+
+.tovarKolvo2 {
+     position: absolute;
+    height: 12px;
+    width: 12px;
+    right: 23px;
+   margin-top: 15px;
+    background: rgba(26, 20, 20, 0.62);
+    border-radius: 50%;
+    line-height: 14px;
+    text-align: center;
+    font-size: 8px;
+    color: white;
+    cursor: pointer;
+    
+}
+
+
+
+.classspans {
+    line-height: 12px; font-size: 12px;color:rgba(83, 105, 108, 0.86);text-transform: uppercase;
+}
+
+.newtov {
+    position: absolute;
+    top: 5px;
+margin-left: -2px;
+    padding-left: 15px;
+     padding-right:15px;
+    font-size: 12px;
+    text-align: center;
+  
+    color: white;
+    font-weight: 700;
+background: purple;
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 88% 50%, 100% 100%, 0% 100%);
+   
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,315 @@
+@media (max-width:1007px) {
+    body{max-width: 1007px;}
+      .classblocks{ width: 32%;} 
+}
+
+
+
+@media (max-width:943px) {
+    body{max-width: 943px;}
+     .companyinfo{ height: 110px;}
+}
+
+@media (max-width:850px) {
+    body{max-width: 850px;}
+    input{width: 250px}
+    .search__magnifier{margin-right: -245px}
+     .sim-slider .sim-slider-list img{height: 250px} 
+    .sim-slider{width: 110%;height: 250px} 
+     .blockinfo {width:115px;  margin-left: 0px; margin-right: 5px; height: 76.5px} 
+    .blockinfo img { margin-left: 10%}
+    .blockingotxt {line-height: 15px; font-size:8px;}
+     .companyinfo{ height: 145px;}
+}
+
+
+
+@media (max-width:790px) {
+    body{max-width: 790px;}
+    input{width: 220px}
+    .search__magnifier{margin-right: -215px}
+}
+@media (max-width:768px) {
+ body{max-width: 768px;}
+     .sim-slider .sim-slider-list img{height: 250px} 
+    .sim-slider{width: 400px;height: 250px ;float: none; margin-left: 0px; margin-right: 0; margin-bottom: 10px;} 
+    .pkfiltr{display: none}
+    
+    .stillmenu{display: none; margin-left: 15px}
+    .mobilefiltr{display: block; width: 650px;margin-left: 15px;}
+     .col-1{display: none;}
+    .accordionMenu{display: block}
+     .buttonsS{display: none}
+    .blockinfo {width: 31vw;  margin-left: 0px; margin-right: 5px; height: 76.5px} 
+    .blockinfo img { margin-left: 10%}
+    .actions{display: none}
+}
+
+@media (max-width:680px) {
+ body{max-width: 680px;}
+     
+    .mobilefiltr{display: block; width: 600px;margin-left: 15px;}
+     .col-1{display: none;}
+    .accordionMenu{display: block}
+     .buttonsS{display: none}
+    .blockinfo {width: 27vw;  margin-left: 0px; margin-right: 5px; height: 76.5px} 
+    .blockinfo img { margin-left: 10%}
+}
+
+@media (max-width:630px) {
+ body{max-width: 630px;}
+     
+    .sim-slider .sim-slider-list img{height: 300px} 
+    .sim-slider{width: 550px;height: 300px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px}
+    .mobilefiltr{display: block; width: 550px;margin-left: 15px;}
+    .blockinfo img {height: 50%}
+    .blockingotxt {line-height: 15px; font-size:12px;}
+    
+}
+
+@media (max-width:580px) {
+ body{max-width: 580px;}
+     
+    .sim-slider .sim-slider-list img{height: 300px} 
+    .sim-slider{width: 500px;height: 300px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px}
+     .mobilefiltr{display: block; width: 500px;margin-left: 15px;}
+    .companyinfo{ height: 110px;}
+}
+
+
+@media (max-width:530px) {
+ body{max-width: 530px;}
+     
+    .sim-slider .sim-slider-list img{height: 300px} 
+    .sim-slider{width: 470px;height: 300px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px}
+    .mobilefiltr{display: block; width: 470px;margin-left: 15px;}
+    .blockinfo img {height: 50%; margin-left: 0px}
+    .blockingotxt {line-height: 15px; font-size:9.5px;}
+    .companyinfo{ height: 140px;}
+    
+}
+
+@media (max-width:500px) {
+ body{max-width: 500px;}
+     
+    .sim-slider .sim-slider-list img{height: 300px} 
+    .sim-slider{width: 450px;height: 300px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px}
+    .mobilefiltr{display: block; width: 450px;margin-left: 15px;}
+    .blockinfo img {height: 50%; margin-left: 0px}
+    .blockingotxt {line-height: 15px; font-size:9.5px;}
+    
+}
+
+@media (max-width:480px) {
+ body{max-width: 480px;}
+     
+    .sim-slider .sim-slider-list img{height: 300px} 
+    .sim-slider{width: 410px;height: 300px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px}
+    .mobilefiltr{display: block; width: 410px;margin-left: 15px;}
+    .blockinfo img {height: 50%; margin-left: 0px}
+    .blockingotxt {line-height: 15px; font-size:9.5px;}
+}
+
+@media (max-width:440px) {
+ body{max-width: 440px;}
+     
+    .sim-slider .sim-slider-list img{height: 300px} 
+    .sim-slider{width: 380px;height: 300px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px}
+    .mobilefiltr{display: block; width: 380px;margin-left: 15px;}
+    .blockinfo img {height: 50%; margin-left: 0px}
+    .blockingotxt {line-height: 15px; font-size:9.5px;}
+    .companyinfo{ height: 160px;}
+    .classblocks{ width: 50%;  margin: 0px; border: 2px solid white} 
+    .product-wrap{width: 48%; }
+    
+}
+
+
+@media (max-width:414px) {
+    body{max-width: 414px;}
+    .col-1{display: none;}
+   .shapka{display: none}
+    .footerblock2{display: none}
+    .footerinput{display: none}
+        .search__magnifier2{display: none}
+     .actions{display: none}
+    .pkfiltr{display: none}
+    .stillmenu{display: none}
+    .buttonsS{display: none}
+    
+     .sim-slider .sim-slider-list img{height: 200px} 
+    .sim-slider{width: 100%;height: 200px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px} 
+    .blockinfo {width: 89vw;  margin-left: 0px; margin-right: 5px;} 
+       .logotxt1{font-size: 6vw; line-height: 8vw}
+    .logotxt2{font-size: 5vw;margin-top: -3vw}
+     .product-wrap img{ height: 250px}   
+    .logo2{width: 100%;}
+    .logo2 img {height: 15vw}
+    .tel11{font-size: 5vw;margin: 0px}
+    .tel21{font-size: 5vw;margin: 0px} 
+    .aboutcompany{width: 100%; height: 40%}  
+    .companyinfo{ height: 250px; display: block;width: 100%}
+   
+     
+    .classblocks{ width: 50%;  margin: 0px; border: 2px solid white} 
+     .footerblock1{float:left; border-right: none; margin-bottom: 20px; margin-left: 20px}
+    .footermap{width: 100%; border-right: 0px; margin-left: 0px; margin-right: 0px; display: block; margin-bottom: 20px} 
+    .map{width: 100%}
+    .tel1footer{font-size: 8vw}
+    .tel2footer{font-size: 4vw}
+     .logofooter{display: block}
+    .footerphones{float: none; margin-bottom: 20px}   
+    .dellogos{display: none}
+    .tel1{font-size: 6vw}
+    .tel2{font-size:3vw}
+    .mobilefiltr{display: block; width: 340px;margin-left: 15px}
+  .accordion{margin-left: 0px}
+    .accordionMenu{display: block}
+    .prefooterbuttons{display: block;text-align: center;} 
+    .aboutcompanytxt{ margin-left: 15px;margin-right: 15px }
+        .product-wrap{width: 100%; margin-left: 0px; margin-right: 0px;}
+ 
+     .accordion h3 {font-size: 4vw}
+    .accordion div .h3menu {font-size: 4vw}
+     div.sim-slider-arrow-right {top: 30%;}
+    div.sim-slider-arrow-left {top: 30%;}
+   
+    
+   
+    
+     
+
+    
+}
+
+
+@media (max-width:371px) {
+     body{max-width: 371px;}
+    .mobilefiltr{width: 310px};
+}
+
+
+@media (max-width:340px) {
+     body{max-width: 340px;}
+    .mobilefiltr{width: 280px};
+    .prefooterlogoss {width: 140px; margin-left: 0px;
+}
+}
+
+
+@media (max-width:310px) {
+     body{max-width: 310px;}
+    .mobilefiltr{width: 250px};
+}
+
+@media (max-width:280px) {
+     body{max-width: 280px;}
+    .mobilefiltr{width: 220px}
+    .sim-slider .sim-slider-list img{height: 150px} 
+    .sim-slider{width: 100%;height: 150px ;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px} 
+    .blockinfo {width: 85vw;  margin-left: 0px; margin-right: 5px;} 
+    .aboutcompanytxt{font-size: 10px }
+       div.sim-slider-arrow-right {top: 25%;}
+    div.sim-slider-arrow-left {top: 25%;}
+    .product-wrap img{ height: 200px}
+    .prefooterlogoss {width: 130px; margin-left: 0px;}
+    .classblocks{ width: 100%;  margin: 0px; border: none; height: 200px; margin-top: 5px }
+    
+    
+}
+
+@media (max-width:250px) {
+     body{max-width: 250px;}
+    .mobilefiltr{width: 190px}
+    .blockingotxt {line-height: 15px; font-size:9px;}
+    .blockinfo img { height: 32%;}
+    .blockinfo{ height: 70px;}
+    .infoImage { margin-left: 5%}
+     .aboutcompanytxt{font-size: 8px }
+    .sitemap{font-size: 6px}
+     div.sim-slider-arrow-right {top: 20%; right: 8px}
+    div.sim-slider-arrow-left {top: 20%; left: 8px}
+    .product-wrap img{ height: 160px}
+   .blockinfo {width: 83vw;  margin-left: 0px; margin-right: 5px;} 
+}
+
+@media (max-width:220px) {
+     body{max-width: 220px}
+    .mobilefiltr{width: 160px}
+     .sim-slider .sim-slider-list img{height: 100px} 
+    .sim-slider{width: 100%;height: 100px;float: none; margin-left: 0px; margin-right: 10vw; margin-bottom: 10px; margin-top: 10px} 
+    .tel1{font-size: 6vw; margin: 0px}
+    .tel2{font-size:3vw;margin: 0px}
+    .logo{padding-top: 5px; padding-bottom: 5px; padding-left: 10px}
+    .blockinfo {width: 78vw;  margin-left: 0px; margin-right: 5px;} 
+    .aboutcompanytxt{font-size: 6px }
+     div.sim-slider-arrow-right {top: 10%;}
+    div.sim-slider-arrow-left {top: 10%}
+    .product-list .prod-text1,.prod-text2{font-size: 8px}
+    .price{font-size: 10px}
+    .classblocks{ width: 100%;  margin: 0px; border: none; height: 150px}
+   
+}
+
+@media (max-width:190px) {
+     body{max-width: 190px;}
+    .mobilefiltr{width: 130px};
+    .stillmenu {width: 130px}
+    .logo2 img {height: 12vw}
+    .tel11{font-size: 4vw;margin: 0px}
+    .tel21{font-size: 3vw;margin: 0px} 
+   
+    .accordion h3 {font-size: 4.7vw}
+    .accordion {width: 130px}
+    .companyinfo{ height: 300px;}
+    div.sim-slider-arrow-right {top: 10%;}
+    div.sim-slider-arrow-left {top: 10%; left: 0px}
+    .product-wrap img{ height: 110px}
+    .prefooterlogoss {width: 110px; margin-left: 0px;}
+    .classblocks{ width: 100%;  margin: 0px; border: none; height: 130px}
+    .classspans{font-size: 8px}
+   
+}
+
+@media (max-width:160px) {
+     body{max-width: 160px;}
+    .mobilefiltr{width: 100px}
+     .sim-slider .sim-slider-list img{height: 65px} 
+    .sim-slider{width: 100%;height: 65px} 
+     .accordion {width: 100px}
+    .blockingotxt {line-height: 12px; font-size:6px;}
+    .blockinfo img { height: 27%;}
+    .infoImage { margin-left: 1%;}
+     .blockinfo{ height: 50px;}
+    .aboutcompany{font-size: 12px}
+     .companyinfo{ height: 450px;}
+     .sitemap{font-size: 5.7px; margin-right: -7px}
+    .footerblock1{font-size: 8px;margin-left: 0px}
+    .footerphones {float: none}
+    .logofooter {padding-left: 0px}
+       div.sim-slider-arrow-right {top: 12%; font-size: 25px; right: 3px}
+    div.sim-slider-arrow-left {top: 12%; font-size: 25px}
+    .product-wrap img{ height: 75px}
+    .product-list .prod-text1,.prod-text2{font-size: 7px}
+    .price{font-size: 8px}
+    .prefooterlogoss {width: 90px; margin-left: 0px;}
+    .prefooterbuttons{font-size: 9px}
+    .classblocks{ width: 100%;  margin: 0px; border: none; height: 90px}
+    .classspans{font-size: 6.5px}
+
+@media (max-width:130px) {
+     body{max-width: 130px;}
+    .mobilefiltr{width: 90px}
+     .accordion {width: 90px}
+    .blockinfo {width: 73vw;  margin-left: 0px; margin-right: 5px;} 
+     .blockinfo{ height: 45px;}
+    .aboutcompany{font-size: 10px}
+    .companyinfo{ height: 550px;}
+    
+}
+    
+    @media (max-width:127px) {
+     body{max-width: 127px;}
+.blockinfo img { margin-left: 0px}
+    
+}
